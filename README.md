@@ -22,9 +22,6 @@
 ## About Me
 
 I'm an Electronics & Communication Engineering student based in Hubballi, Karnataka, building projects to develop real-world engineering skills rather than just studying theory.
-
-My work spans two layers of engineering: the **hardware/circuit layer** — MOSFET switching, PCM signal pipelines, ripple-carry adders, and an ESP32-based air-quality smart window — and the **software layer** — an Android system-integration app and an AI-assisted civic-services web platform. I like understanding how a system behaves at the component level, then building the software that controls or extends it.
-
 I'm not chasing trends — each repository reflects something I actually wanted to learn: how a transistor switches, how analog signals get digitized, how to bridge a phone app and a wearable that was never designed to talk to it.
 
 <!-- ============================================================ -->
@@ -46,28 +43,51 @@ I'm not chasing trends — each repository reflects something I actually wanted 
 <!-- TECH STACK -->
 <!-- ============================================================ -->
 
-## Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**Languages**
+<table align="center">
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,cpp,typescript,python" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,python,typescript" />
+</p>
 
-**Embedded & Hardware**
+### Embedded & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=arduino" />
-<!-- ESP32, MQ gas sensors, L298N motor drivers, KiCad, ngspice — add custom badges as skillicons.dev expands support -->
+<!-- Custom badges -->
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ngspice-006400?style=for-the-badge"/>
+</p>
 
-**Mobile**
+</td>
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+<td align="center">
 
-**AI / Web**
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
+### AI / Web
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
+</p>
 
-**Tools**
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</td>
+</tr>
+</table>
 
 <!-- ============================================================ -->
 <!-- GITHUB ANALYTICS -->
@@ -75,22 +95,18 @@ I'm not chasing trends — each repository reflects something I actually wanted 
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=satvikpandurangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvikpandurangi&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=satvikpandurangi&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satvikpandurangi&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=satvikpandurangi&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=satvikpandurangi&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvikpandurangi&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=satvikpandurangi&color=58a6ff&style=flat&label=Profile+Views" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satvikpandurangi&theme=github-dark" width="65%" />
+</p>
 
 <!-- ============================================================ -->
 <!-- FEATURED PROJECTS -->
@@ -186,7 +202,6 @@ Applied AI                          (SarkarSeva)
 <!-- ============================================================ -->
 
 
-
 <!-- ============================================================ -->
 <!-- CONNECT -->
 <!-- ============================================================ -->
@@ -198,7 +213,6 @@ Applied AI                          (SarkarSeva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-pandurangi-702bba384)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satvik_pandurangi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://satviktheshutterbug.unaux.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
