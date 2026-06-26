@@ -5,11 +5,7 @@
 
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Satvik Pandurangi Banner">
-</p>
 
-<h1>Satvik Pandurangi</h1>
-
-<p>
   <a href="https://github.com/satvikpandurangi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineering;Embedded+Systems+%2B+IoT+Builder;Android+Developer;KiCad+%26+Circuit+Simulation;Open+Source+%7C+Real-World+Engineering" alt="Typing SVG" />
   </a>
