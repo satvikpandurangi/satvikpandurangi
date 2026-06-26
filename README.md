@@ -3,7 +3,9 @@
 <!-- ============================================================ -->
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300/0d1117/58a6ff?text=" alt="Banner Placeholder" width="100%"/>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Satvik Pandurangi Banner">
+</p>
 
 <h1>Satvik Pandurangi</h1>
 
